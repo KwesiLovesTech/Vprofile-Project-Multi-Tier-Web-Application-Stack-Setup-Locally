@@ -8,3 +8,11 @@ The design image below illustrates the three tiers of the application architectu
 
 ![diagram](image-1.png)
 
+We would need to provision 6 vms for the following services 
+
+1. Nginx: Web Service 
+2. Tomcat: Application Server 
+3. RabbitMQ: Broker/Queuing Agent
+4. Memcache: DB Caching
+5. ElasticSearch: Indexing/Search service
+6. MySQL: SQL Database
