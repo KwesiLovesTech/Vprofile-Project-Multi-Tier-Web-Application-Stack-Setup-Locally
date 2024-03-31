@@ -6,4 +6,4 @@ This architecture comprises three layers: the Web Server Tier, the Java-based Ap
 
 The design image below illustrates the three tiers of the application architecture:
 
-![architecture diagram](image.png)
+![diagram](image-1.png)
