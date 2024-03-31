@@ -14,5 +14,5 @@ We would need to provision 6 vms for the following services
 2. Tomcat: Application Server  (ubuntu)
 3. RabbitMQ: Broker/Queuing Agent (ubuntu)
 4. Memcache: DB Caching (ubuntu)
-5. ElasticSearch: Indexing/Search service (ubuntu)
-6. MySQL: SQL Database (centos)
+5. ElasticSearch: Indexing/Search service (CentOS)
+6. MySQL: SQL Database (CentOs)
