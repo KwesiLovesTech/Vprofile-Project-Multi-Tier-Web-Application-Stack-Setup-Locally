@@ -26,8 +26,9 @@ Each VM is provisioned with **1024 MB of memory** and configured on a **private 
 
 2. **Clone this repo**:
    ```bash
-   git clone https://github.com/yourusername/three-tier-vagrant-lab.git
-   cd three-tier-vagrant-lab
+   git clone https://github.com/KwesiLovesTech/Vprofile-Project-Multi-Tier-Web-Application-Stack-Setup-Locally
+
+   cd VM_provisioning
 
 3. **Start the environment**:
     ```bash

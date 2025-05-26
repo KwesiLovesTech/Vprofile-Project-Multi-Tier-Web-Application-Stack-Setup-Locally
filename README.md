@@ -57,14 +57,3 @@ To simulate the full stack, you will provision the following six virtual machine
 - Build familiarity with multi-tier architecture and DevOps practices.
 
 ---
-
-## 📝 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-## 🙋‍♂️ Author
-
-Maintained by [Kwesi Ifeogwu](https://github.com/KwesiLovesTech). Feel free to open issues or contribute!
-
