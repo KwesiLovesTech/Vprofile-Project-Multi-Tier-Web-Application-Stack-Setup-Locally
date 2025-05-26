@@ -39,6 +39,9 @@ To simulate the full stack, you will provision the following six virtual machine
 | `elasticsearch-vm` | Search Engine (ElasticSearch)     | CentOS           |
 | `mysql-vm`         | Database (MySQL)                  | CentOS           |
 
+
+use this [link](https://github.com/KwesiLovesTech/Create-VM-manually-or-automatically-using-Vagrant-by-HashiCorp) to setup vms manually.
+
 ---
 
 ## 🔧 Components Breakdown
@@ -63,7 +66,7 @@ To simulate the full stack, you will provision the following six virtual machine
 
 | Step | Action                  | Details                                                                                             | Link / Command                                                                 |
 |------|-------------------------|-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| 1️⃣   | Create Infrastructure   | Automatically provision the architecture on your local machine using Vagrant                       | Instructions available [here](https://github.com/KwesiLovesTech/Vprofile-Project-Multi-Tier-Web-Application-Stack-Setup-Locally/tree/main/VM_provisioning) |
+| 1️⃣   | Create Infrastructure   | Automatically provision the architecture on your local machine using Vagrant                       |  [ Instructions here](https://github.com/KwesiLovesTech/Vprofile-Project-Multi-Tier-Web-Application-Stack-Setup-Locally/tree/main/VM_provisioning) |
 | 2️⃣   | Start Project           | Launch all 6 VMs with one command                                                                   | `vagrant up`                                                                   |
 | 3️⃣   | Open VirtualBox         | Confirm all VMs are running:<br>- `web01` (Nginx)<br>- `app01` (Tomcat)<br>- `rmq01` (RabbitMQ)<br>- `mc01` (Memcache)<br>- `db01` (MySQL) | [📷 Sample Screenshot](/Images/VMs-are-running-in-VirtualBox.png)<br>[📦 VirtualBox Download](https://www.virtualbox.org/wiki/Downloads) |
 | 4️⃣   | SSH into VMs            | Access individual VMs via SSH for configuration, setup, or testing                                 | `vagrant ssh <vm_name>`<br>Example: `vagrant ssh web01`                        |
