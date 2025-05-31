@@ -1,4 +1,4 @@
-# 🏗️ Three-Tier Architecture Lab Setup (Local VM Deployment)
+# 🏗️ Three-Tier Architecture HomeLab Setup (Local VM Deployment)
 
 This repository contains a complete guide to building a **Three-Tier Architecture** on your **local machine** using Virtual Machines. I plan to simulate production-like infrastructure locally and migrate to an  AWS Cloud environment.
 
