@@ -93,7 +93,8 @@ exit
 ### 8️⃣ Clone the Application Repository
 
 ```bash
-git clone https://github.com/rumeysakdogan/vprofile-project.git
+git clone https://github.com/KwesiLovesTech/Vprofile-Project-Multi-Tier-Web-Application-Stack-Setup-Locally.git
+
 cd vprofile-project/src/main/resources/
 ```
 
