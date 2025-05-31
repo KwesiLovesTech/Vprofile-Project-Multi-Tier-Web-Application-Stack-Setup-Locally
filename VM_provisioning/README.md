@@ -8,11 +8,11 @@ This repository contains a `Vagrantfile` to spin up a multi-VM environment simul
 
 | VM Name   | Purpose                  | IP Address        | OS           |
 |-----------|--------------------------|-------------------|--------------|
-| `web01`   | Nginx Web Server         | 192.168.100.11    | Ubuntu 18.04 |
-| `app01`   | Tomcat App Server        | 192.168.100.12    | CentOS 7     |
-| `rmq01`   | RabbitMQ Broker          | 192.168.100.13    | CentOS 7     |
-| `mc01`    | Memcache Caching Layer   | 192.168.100.14    | CentOS 7     |
-| `db01`    | MySQL Database           | 192.168.100.15    | CentOS 7     |
+| `web01`   | Nginx Web Server         | 192.168.56.11    | Ubuntu 18.04 |
+| `app01`   | Tomcat App Server        | 192.168.56.12    | CentOS 7     |
+| `rmq01`   | RabbitMQ Broker          | 192.168.56.13    | CentOS 7     |
+| `mc01`    | Memcache Caching Layer   | 192.168.56.14    | CentOS 7     |
+| `db01`    | MySQL Database           | 192.168.56.15    | CentOS 7     |
 
 Each VM is provisioned with **1024 MB of memory** and configured on a **private network**.
 
